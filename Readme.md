@@ -63,7 +63,7 @@ Structure
 > 아래의 코드는 사운드 매니저와 그를 호출하는 코드의 예시입니다.
 > 
 > [코드1](https://github.com/Lawrence1031/ProjectPS_Jo/blob/main/Assets/02.Scripts/Manager/SoundManager.cs)
-> [코드2](https://github.com/Lawrence1031/ProjectPS_Jo/blob/main/Assets/02.Scripts/Items/DeskInteraction.cs#48)
+> [코드2](https://github.com/Lawrence1031/ProjectPS_Jo/blob/main/Assets/02.Scripts/Items/DeskInteraction.cs#L48)
 
 </br>
 
