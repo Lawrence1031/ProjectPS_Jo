@@ -82,6 +82,12 @@ Structure
 ----
 <details>
 
-[노션](https://scythe-sesame-8dc.notion.site/Nio-Gress-bf415777a49d48e1b75a392cefd51ff8?pvs=4)
+[개인 노션](https://scythe-sesame-8dc.notion.site/Project-PS-52afc65ec8ff42dda27ec4dff6c28abe?pvs=4)
+
+[팀 노션](https://teamsparta.notion.site/1-4-38c84c4ca03c4d8b8236f10f7b90ce28)
+
+[피그마](https://www.figma.com/file/VA1X4x5hwlYSh98eRGRdmt/Unity4_14-(Copy)?type=whiteboard&t=Kvl4Ckfkp0vMHypF-6)
+
+[팀 깃허브](https://github.com/Lawrence1031/ProjectPS)
 
 </details>
