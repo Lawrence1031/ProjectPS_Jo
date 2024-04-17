@@ -17,7 +17,7 @@ Project PS (1점4조)
 ----
 - 제작기간 2023.12.18 ~ 2023.12.20
 - 참여인원 5명
-- 맡은 역할 - 상호작용 시스템, 사운드
+- 맡은 역할 - 상호작용 시스템, Scriptable Object, 사운드
 
 사용 기술
 -----
@@ -55,18 +55,15 @@ Structure
 
 </br>
 
-### 3. 
+### 3. 사운드 시스템
+> 싱글톤화 시킨 사운드 매니저를 도입하여 사운드를 관리했습니다.
 > 
+> 필요한 사운드들을 배열로 관리하여 필요한 지점에서 매니저를 호출하여 작동시켰습니다.
 > 
+> 아래의 코드는 사운드 매니저와 그를 호출하는 코드의 예시입니다.
 > 
-> 
-> 
-> 
-> 
->
-> 
-> 
-> [코드]()
+> [코드1](https://github.com/Lawrence1031/ProjectPS_Jo/blob/main/Assets/02.Scripts/Manager/SoundManager.cs)
+> [코드2](https://github.com/Lawrence1031/ProjectPS_Jo/blob/main/Assets/02.Scripts/Items/DeskInteraction.cs#48)
 
 </br>
 
