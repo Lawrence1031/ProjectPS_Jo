@@ -78,6 +78,17 @@ Structure
 
 </br>
 
+### 4. 시네머신을 활용한 카메라 연출
+> 게임을 진행하면서 플레이어의 시점이 문제가 되어 힌트를 확인하는데 어려움을 겪는 경우가 있었습니다.
+>
+> 이를 해결하기 위해 시네머신을 도입하여 플레이어가 상호작용하여 시점을 변경하고
+>
+> 변경된 시점을 통해서 힌트를 의도한 시점에서 확인할 수 있도록 하였습니다.
+> 
+> [코드](https://github.com/Lawrence1031/ProjectPS_Jo/blob/main/Assets/02.Scripts/Camera/CinemachineController.cs)
+
+</br>
+
 참고 문서
 ----
 <details>
