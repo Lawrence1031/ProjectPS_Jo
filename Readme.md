@@ -8,6 +8,8 @@ Project PS (1점4조)
     <summary>Sample Image</summary>
 
    <img width="696" alt="001" src="https://github.com/Lawrence1031/ProjectPS_Jo/assets/144416099/9e9d295a-e6e1-45dc-bda5-6a45d96a249f">
+   
+   <img width="696" alt="001" src="https://github.com/Lawrence1031/ProjectPS_Jo/assets/144416099/df9ad0d1-ad16-4a9b-a6a7-ad9c1b73e3e8">
 
    <img width="696" alt="001" src="https://github.com/Lawrence1031/ProjectPS_Jo/assets/144416099/a80ece64-4512-49e4-869a-7d0383b2eede">
 
